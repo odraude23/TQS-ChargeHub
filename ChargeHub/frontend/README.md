@@ -1,3 +1,0 @@
-# TQS-Project-frontend
-
-Updated
